@@ -1,9 +1,14 @@
-# api documentation for  [eslint-plugin-html (v2.0.1)](https://github.com/BenoitZugmeyer/eslint-plugin-html)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-plugin-html.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-plugin-html) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-html.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-html)
+# npmdoc-eslint-plugin-html
+
+#### api documentation for  [eslint-plugin-html (v2.0.1)](https://github.com/BenoitZugmeyer/eslint-plugin-html)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-plugin-html.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-plugin-html) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-html.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-html)
+
 #### An ESLint plugin to extract and lint scripts from HTML files.
 
-[![NPM](https://nodei.co/npm/eslint-plugin-html.png?downloads=true)](https://www.npmjs.com/package/eslint-plugin-html)
+[![NPM](https://nodei.co/npm/eslint-plugin-html.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/eslint-plugin-html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-html/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-eslint-plugin-html_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-html/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-eslint-plugin-html/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-eslint-plugin-html/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-plugin-html/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-plugin-html/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-eslint-plugin-html/build/screenCapture.npmPackageListing.svg)
 
@@ -43,13 +48,11 @@
     "main": "src/index.js",
     "maintainers": [
         {
-            "name": "benoitz",
-            "email": "bzugmeyer@gmail.com"
+            "name": "benoitz"
         }
     ],
     "name": "eslint-plugin-html",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/BenoitZugmeyer/eslint-plugin-html.git"
@@ -61,16 +64,6 @@
     "version": "2.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module eslint-plugin-html](#apidoc.module.eslint-plugin-html)
-
-
-
-# <a name="apidoc.module.eslint-plugin-html"></a>[module eslint-plugin-html](#apidoc.module.eslint-plugin-html)
 
 
 
