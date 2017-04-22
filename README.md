@@ -21,47 +21,35 @@
 ```json
 
 {
-    "bugs": {
-        "url": "https://github.com/BenoitZugmeyer/eslint-plugin-html/issues"
-    },
-    "dependencies": {
-        "htmlparser2": "^3.8.2"
-    },
+    "name": "eslint-plugin-html",
+    "version": "2.0.1",
     "description": "An ESLint plugin to extract and lint scripts from HTML files.",
-    "devDependencies": {
-        "eslint": "^3.2.2",
-        "jest": "^18.1.0"
-    },
-    "directories": {},
-    "dist": {
-        "shasum": "3a829510e82522f1e2e44d55d7661a176121fce1",
-        "tarball": "https://registry.npmjs.org/eslint-plugin-html/-/eslint-plugin-html-2.0.1.tgz"
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BenoitZugmeyer/eslint-plugin-html"
     },
     "homepage": "https://github.com/BenoitZugmeyer/eslint-plugin-html",
+    "bugs": "https://github.com/BenoitZugmeyer/eslint-plugin-html/issues",
     "keywords": [
         "eslint-plugin",
         "eslintplugin",
         "eslint",
         "html"
     ],
-    "license": "ISC",
     "main": "src/index.js",
-    "maintainers": [
-        {
-            "name": "benoitz"
-        }
-    ],
-    "name": "eslint-plugin-html",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/BenoitZugmeyer/eslint-plugin-html.git"
+    "dependencies": {
+        "htmlparser2": "^3.8.2"
+    },
+    "devDependencies": {
+        "eslint": "^3.2.2",
+        "jest": "^18.1.0"
     },
     "scripts": {
-        "lint": "eslint .",
-        "test": "jest"
+        "test": "jest",
+        "lint": "eslint ."
     },
-    "version": "2.0.1"
+    "bin": {}
 }
 ```
 
